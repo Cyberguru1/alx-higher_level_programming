@@ -1,1 +1,1 @@
-git add . && git commit -m "added more buitin functions" && git push
+git add . && git commit -m "introduction to python programming" && git push
