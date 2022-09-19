@@ -3,10 +3,7 @@ print("The Zen of Python, by Tim Peters\n\
 Beautiful is better than ugly.\n\
 Explicit is better than implicit.\n\
 Simple is better than complex.\n\
-Complex is better than complicated.\n\
-Flat is better than nested.\n\
-Sparse is better than dense.\n\
-Readability counts.n
+Complex is better than complicated.\nFlat is better than nested.\nSparse is better than dense.\nReadability counts.n
 Special cases aren't special enough to break the rules.
 Although practicality beats purity.
 Errors should never pass silently.
