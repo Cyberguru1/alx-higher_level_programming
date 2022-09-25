@@ -4,7 +4,5 @@ def element_at(my_list, idx):
     function that retreives an element
     form alist like c
     """
-    if idx < 0 or idx >(len(my_list)):
-        return None
-    else:
-        print("Element at index {:d} is {}".format(idx,))
+    return None if idx < 0 or idx >(len(my_list)) else  my_list[idx]
+       
