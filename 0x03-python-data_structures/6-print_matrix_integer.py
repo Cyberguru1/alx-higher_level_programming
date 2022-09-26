@@ -5,7 +5,9 @@ def print_matrix_integer(matrix=[[]]):
     """
     if matrix == [[]]:
         return
-    for i in range(len(matrix)):
-        for j in range(len(matrix[i])):
+    x = len(matrix)
+    y = len(matrix[0][0])
+    for i in range(x):
+        for j in range(y):
             print("{:d}".format(matrix[i][j]),end=' ')
-        print('\n')
+        print('')
