@@ -3,6 +3,6 @@ def print_matrix_integer(matrix=[[]]):
     """
     a function that prints a matrix of integers
     """
-    if matrix == []:
+    if matrix == [[]]:
         return
-        
+    
