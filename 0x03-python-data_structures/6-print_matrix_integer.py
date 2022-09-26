@@ -6,4 +6,4 @@ def print_matrix_integer(matrix=[[]]):
     if matrix == [[]]:
         return
     for i in range(len(matrix)):
-        print(*matrix[i])
+        print("{:d} {:d} {:d}$".format(*matrix[i]))
