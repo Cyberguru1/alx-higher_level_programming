@@ -18,19 +18,17 @@
   - 4. You are not allowed to import any module
   - 5. You are not allowed to use try/except
 
-## 2. replace element in list
+## [2. replace element in list](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x03-python-data_structures/2-replace_in_list.py)
+
 - ### write function should not modify anything, and returns the original list
   - 1. You are not allowed to import any module
   - 2. You are not allowed to use try/except
-
-Write a function that prints all integers of a list, in reverse order.
-
-Prototype: def print_reversed_list_integer(my_list=[]):
-Format: one integer per line. See example
-You are not allowed to import any module
-You can assume that the list only contains integers
-You are not allowed to cast integers into strings
-You have to use str.format() to print integers
+## 3. Print element in reverse order
+- ### Write a function that prints all integers of a list, in reverse order.
+  - 1. You are not allowed to import any module
+  - 2. You can assume that the list only contains integers
+  - 3. You are not allowed to cast integers into strings
+  You have to use str.format() to print integers
 
 Write a function that replaces an element in a list at a specific position without modifying the original list (like in C).
 
