@@ -16,9 +16,10 @@
   - 4. You are not allowed to import any module
   - 5. You are not allowed to use try/except
 
-write function should not modify anything, and returns the original list
-You are not allowed to import any module
-You are not allowed to use try/except
+## 2. function mod 
+- ### write function should not modify anything, and returns the original list
+  - 1. You are not allowed to import any module
+  - 2. You are not allowed to use try/except
 
 Write a function that prints all integers of a list, in reverse order.
 
