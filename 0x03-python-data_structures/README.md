@@ -1,6 +1,7 @@
 # Data Structures: Lists, Tuples
 
 ## [0. Print a list of integers](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x03-python-data_structures/0-print_list_integer.py) 
+
 - ###  A function that prints all integers of a list.
   - 1. Prototype: def print_list_integer(my_list=[]):
   - 2. Format: one integer per line. See example
@@ -8,7 +9,8 @@
   - 4. Thelist only contains integers
   - 5. Not allowed to cast integers into strings
   - 6. use str.format() to print integers
-## 1. Secure access to an element in a list
+## [1. Secure access to an element in a list](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x03-python-data_structures/1-element_at.py)
+
 - ### A function that retrieves an element from a list like in C.
   - 1. Prototype: def element_at(my_list, idx):
   - 2. If idx is negative, the function should return None
@@ -16,7 +18,7 @@
   - 4. You are not allowed to import any module
   - 5. You are not allowed to use try/except
 
-## 2. function mod 
+## 2. replace element in list
 - ### write function should not modify anything, and returns the original list
   - 1. You are not allowed to import any module
   - 2. You are not allowed to use try/except
