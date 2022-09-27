@@ -1,6 +1,6 @@
 # Data Structures: Lists, Tuples
 
-## 0. Print a list of integers
+## 0. Print a list of integers 
 - ###  A function that prints all integers of a list.
   - 1. Prototype: def print_list_integer(my_list=[]):
   - 2. Format: one integer per line. See example
