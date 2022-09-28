@@ -96,7 +96,7 @@
 3. Returns a new dictionary
 4. You are not allowed to import any module
    
-### **10. Best score**
+### **[10. Best score](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/10-best_score.py)**
 
 > Write a function that returns a key with the biggest integer value.
 
@@ -106,7 +106,7 @@
 4. You can assume all students have a different score
 5. You are not allowed to import any module
 
-### **11. Multiply by using map**
+### **[11. Multiply by using map](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/11-multiply_list_map.py)**
 
 > Write a function that returns a list with all values multiplied by a number without using any loops.
 
