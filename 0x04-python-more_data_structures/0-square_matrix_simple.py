@@ -6,10 +6,9 @@ def square_matrix_simple(matrix=[]):
     of all integers of a matrix
     """
     sqr = lambda x : x**2
-    new_matrix = [] * (len(matrix)-1)
-    print(new_matrix)
+    new_matrix = [] 
     for i, j  in enumerate(matrix):
-            new_matrix[i] = list(map(sqr, j))
+            new_matrix.append(list(map(sqr, j)))
     return new_matrix
 matrix = [
     [1, 2, 3],
@@ -17,3 +16,4 @@ matrix = [
     [7, 8, 9]
 ]
 print(square_matrix_simple(matrix))
+print(matrix)
