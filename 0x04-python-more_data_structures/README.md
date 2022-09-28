@@ -42,4 +42,10 @@
 1. Prototype: def common_elements(set_1, set_2):
 2. You are not allowed to import any module
    
+### **4. Only differents**
+
+> Write a function that returns a set of all elements present in only one set.
+
+1. Prototype: def only_diff_elements(set_1, set_2):
+2. You are not allowed to import any module
    
