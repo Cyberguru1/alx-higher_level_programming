@@ -56,7 +56,7 @@
 1. Prototype: def number_keys(a_dictionary):
 2. You are not allowed to import any module
    
-### **6. Print sorted dictionary**
+### **[6. Print sorted dictionary](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/6-print_sorted_dictionary.py)**
 
 > Write a function that prints a dictionary by ordered keys.
 
@@ -67,7 +67,7 @@
 5. Dictionary values can have any type
 6. You are not allowed to import any module
    
-### **7. Update dictionary**
+### **[7. Update dictionary](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/7-update_dictionary.py)**
 
 > Write a function that replaces or adds key/value in a dictionary.
 
@@ -78,3 +78,12 @@
 5. If a key doesn’t exist in the dictionary, it will be created
 6. You are not allowed to import any module
 
+### **[8. Simple delete by key](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/8-simple_delete.py)**
+
+> Write a function that deletes a key in a dictionary.
+
+1. Prototype: def simple_delete(a_dictionary, key=""):
+2. key argument will be always a string
+3. If a key doesn’t exist, the dictionary won’t change
+4. You are not allowed to import any module
+   
