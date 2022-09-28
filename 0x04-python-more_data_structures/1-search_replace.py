@@ -6,4 +6,11 @@ def search_replace(my_list, search, replace):
     occurrences of an element by another in
     a new list.
     """
-    
+    new_list = my_list
+    new_list[new_list.index(search)] = replace
+    return my_list
+my_list = [1, 2, 3, 4, 5, 4, 2, 1, 1, 4, 89]
+new_list = search_replace(my_list, 2, 89)
+
+print(new_list)
+print(my_list)
