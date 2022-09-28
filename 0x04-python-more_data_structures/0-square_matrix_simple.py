@@ -6,7 +6,8 @@ def square_matrix_simple(matrix=[]):
     of all integers of a matrix
     """
     sqr = lambda x : x**2
-    new_matrix = [] * len(matrix)-1
+    new_matrix = [] * (len(matrix)-1)
+    print(new_matrix)
     for i, j  in enumerate(matrix):
             new_matrix[i] = list(map(sqr, j))
     return new_matrix
