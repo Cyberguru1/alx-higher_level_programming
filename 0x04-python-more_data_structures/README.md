@@ -10,11 +10,11 @@
 ### **0. Squared simple**
 
 > Write a function that computes the square value of all integers of a matrix.
-- matrix is a 2 dimensional array
-- Returns a new matrix:
-- Same size as matrix
-- Each value should be the square of the value of the input
-- Initial matrix should not be modified
-- You are not allowed to import any module
-- You are allowed to use regular loops, map, etc.
+1. matrix is a 2 dimensional array
+2. Returns a new matrix:
+3. Same size as matrix
+4. Each value should be the square of the value of the input
+5. Initial matrix should not be modified
+6. You are not allowed to import any module
+7. You are allowed to use regular loops, map, etc.
 
