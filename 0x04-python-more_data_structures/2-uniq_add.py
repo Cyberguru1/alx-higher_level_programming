@@ -6,5 +6,4 @@ def uniq_add(my_list=[]):
     unique element in a list
     """
     summed =  sum(set(my_list))
-
     return (summed)
