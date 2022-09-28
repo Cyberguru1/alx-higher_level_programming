@@ -18,3 +18,6 @@
 6. You are not allowed to import any module
 7. You are allowed to use regular loops, map, etc.
 
+### **1. Search and replace**
+
+>
