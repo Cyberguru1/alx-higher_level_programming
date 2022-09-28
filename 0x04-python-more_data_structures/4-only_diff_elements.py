@@ -5,11 +5,4 @@ def only_diff_elements(set_1, set_2):
     an element that is different
     between two sets
     """
-    f = lambda i :  i not in set_2 
-    new_list = list(filter(f, set_1))
-    return new_list
-
-set_1 = { "Python", "C", "Javascript" }
-set_2 = { "Bash", "C", "Ruby", "Perl" }
-od_set = only_diff_elements(set_1, set_2)
-print(sorted(list(od_set)))
+    return (set_1 ^ set_2)
