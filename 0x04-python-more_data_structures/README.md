@@ -35,3 +35,11 @@
 1. Prototype: def uniq_add(my_list=[]):
 2. You are not allowed to import any module
    
+### **3. Present in both**
+
+> Write a function that returns a set of common elements in two sets.
+
+1. Prototype: def common_elements(set_1, set_2):
+2. You are not allowed to import any module
+   
+   
