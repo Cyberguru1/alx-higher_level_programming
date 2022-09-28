@@ -7,7 +7,7 @@
 
 - ## Filter Reduce
 
-### **0. Squared simple**
+### **[0. Squared simple](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/0-square_matrix_simple.py)**
 
 > Write a function that computes the square value of all integers of a matrix.
 1. matrix is a 2 dimensional array
@@ -18,7 +18,7 @@
 6. You are not allowed to import any module
 7. You are allowed to use regular loops, map, etc.
 
-### **1. Search and replace**
+### **[1. Search and replace](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/1-search_replace.py)**
 
 > Write a function that replaces all occurrences of an element by another in a new list.
 
@@ -28,7 +28,7 @@
 4. replace is the new element
 5. You are not allowed to import any module
 
-### **2. Unique addition**
+### **[2. Unique addition](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/2-uniq_add.py)**
 
 > Write a function that adds all unique integers in a list (only once for each integer).
 
