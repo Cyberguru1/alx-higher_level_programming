@@ -8,8 +8,7 @@ def square_matrix_simple(matrix=[]):
     sqr = lambda x : x**2
     new_matrix = matrix
     for i in (new_matrix):
-        for j in (i):
-            j = map(sqr, j)
+            i = list(map(sqr, i))
     return new_matrix
 matrix = [
     [1, 2, 3],
