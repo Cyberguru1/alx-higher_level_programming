@@ -131,3 +131,18 @@
 5. You can assume the number will be between 1 to 3999.
 6. def roman_to_int(roman_string) must return an integer
 7. If the roman_string is not a string or None, return 0
+
+### **14. Squared by using map**
+
+> Write a function that computes the square value of all integers of a matrix using map
+
+1. Prototype: def square_matrix_map(matrix=[]):
+2. matrix is a 2 dimensional array
+3. Returns a new matrix:
+4. Same size as matrix
+5. Each value should be the square of the value of the input
+6. Initial matrix should not be modified
+7. You are not allowed to import any module
+8. You have to use map
+9. You are not allowed to use for or while
+10. Your file should be max 3 lines
