@@ -87,7 +87,7 @@
 3. If a key doesn’t exist, the dictionary won’t change
 4. You are not allowed to import any module
    
-### **9. Multiply by 2**
+### **[9. Multiply by 2](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/9-multiply_by_2.py)**
 
 > Write a function that returns a new dictionary with all values multiplied by 2
 
@@ -120,13 +120,14 @@
 8. Your file should be max 3 lines
    
 ### **[12. Roman to Integer](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/12-roman_to_int.py)**
-mandatory
-Technical interview preparation:
 
-You are not allowed to google anything
-Whiteboard first
-Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
 
-You can assume the number will be between 1 to 3999.
-def roman_to_int(roman_string) must return an integer
-If the roman_string is not a string or None, return 0
+> **Technical interview preparation:**
+
+1. You are not allowed to google anything
+2. Whiteboard first
+3. Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
+4. 
+5. You can assume the number will be between 1 to 3999.
+6. def roman_to_int(roman_string) must return an integer
+7. If the roman_string is not a string or None, return 0
