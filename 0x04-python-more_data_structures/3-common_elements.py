@@ -5,7 +5,8 @@ def common_elements(set_1, set_2):
     of common elements in two
     sets 
     """
-    new_list = list(map(lambda i : i if i in set_2 else '', set_1))
+    f = lambda i :  i in set_2 
+    new_list = list(map(, set_1))
     return new_list
 
 set_1 = { "Python", "C", "Javascript" }
