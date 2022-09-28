@@ -40,19 +40,19 @@
 
 - ### Write a function that removes all characters c and C from a string.
 
-- Prototype: def no_c(my_string):
-- The function should return the new string
-- You are not allowed to import any module
-- You are not allowed to use str.replace()
+1) Prototype: def no_c(my_string):
+* The function should return the new string
+* You are not allowed to import any module
+* You are not allowed to use str.replace()
 
 Write a function that prints a matrix of integers.
 
-* Prototype: def print_matrix_integer(matrix=[[]]):
-* Format: see example
-* You are not allowed to import any module
-* You can assume that the list only contains integers
-* You are not allowed to cast integers into strings
-* You have to use str.format() to print integers
+1. Prototype: def print_matrix_integer(matrix=[[]]):
+2. Format: see example
+3. You are not allowed to import any module
+4. You can assume that the list only contains integers
+5. You are not allowed to cast integers into strings
+6. You have to use str.format() to print integers
 
 Write a function that adds 2 tuples.
 
