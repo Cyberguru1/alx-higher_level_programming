@@ -35,21 +35,21 @@
 1. Prototype: def uniq_add(my_list=[]):
 2. You are not allowed to import any module
    
-### **3. Present in both**
+### **[3. Present in both](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/3-common_elements.py)**
 
 > Write a function that returns a set of common elements in two sets.
 
 1. Prototype: def common_elements(set_1, set_2):
 2. You are not allowed to import any module
    
-### **4. Only differents**
+### **[4. Only differents](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/4-only_diff_elements.py)**
 
 > Write a function that returns a set of all elements present in only one set.
 
 1. Prototype: def only_diff_elements(set_1, set_2):
 2. You are not allowed to import any module
    
-### **5. Number of keys**
+### **[5. Number of keys](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/5-number_keys.py)**
 
 > Write a function that returns the number of keys in a dictionary.
 
