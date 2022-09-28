@@ -87,3 +87,12 @@
 3. If a key doesn’t exist, the dictionary won’t change
 4. You are not allowed to import any module
    
+### **9. Multiply by 2**
+
+> Write a function that returns a new dictionary with all values multiplied by 2
+
+1. Prototype: def multiply_by_2(a_dictionary):
+2. You can assume that all values are only integers
+3. Returns a new dictionary
+4. You are not allowed to import any module
+   
