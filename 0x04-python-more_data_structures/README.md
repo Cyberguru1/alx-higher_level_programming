@@ -106,3 +106,16 @@
 4. You can assume all students have a different score
 5. You are not allowed to import any module
 
+### **11. Multiply by using map**
+
+> Write a function that returns a list with all values multiplied by a number without using any loops.
+
+1. Prototype: def multiply_list_map(my_list=[], number=0):
+2. Returns a new list:
+3. Same length as my_list
+4. Each value should be multiplied by number
+5. Initial list should not be modified
+6. You are not allowed to import any module
+7. You have to use map
+8. Your file should be max 3 lines
+   
