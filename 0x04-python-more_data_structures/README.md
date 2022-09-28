@@ -49,3 +49,10 @@
 1. Prototype: def only_diff_elements(set_1, set_2):
 2. You are not allowed to import any module
    
+### **5. Number of keys**
+
+> Write a function that returns the number of keys in a dictionary.
+
+1. Prototype: def number_keys(a_dictionary):
+2. You are not allowed to import any module
+   
