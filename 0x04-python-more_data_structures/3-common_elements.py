@@ -5,7 +5,7 @@ def common_elements(set_1, set_2):
     of common elements in two
     sets 
     """
-    new_list = [i if i in set_1 and i in set_2 for i in set_1]
+    new_list = [i for i in set_1 if i in set_1 and i in set_2]
     return new_list
 
 set_1 = { "Python", "C", "Javascript" }
