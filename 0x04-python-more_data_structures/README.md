@@ -96,3 +96,13 @@
 3. Returns a new dictionary
 4. You are not allowed to import any module
    
+### **10. Best score**
+
+> Write a function that returns a key with the biggest integer value.
+
+1. Prototype: def best_score(a_dictionary):
+2. You can assume that all values are only integers
+3. If no score found, return None
+4. You can assume all students have a different score
+5. You are not allowed to import any module
+
