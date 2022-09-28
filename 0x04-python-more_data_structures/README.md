@@ -119,3 +119,14 @@
 7. You have to use map
 8. Your file should be max 3 lines
    
+### **[12. Roman to Integer](https://github.com/Cyberguru1/alx-higher_level_programming/blob/main/0x04-python-more_data_structures/12-roman_to_int.py)**
+mandatory
+Technical interview preparation:
+
+You are not allowed to google anything
+Whiteboard first
+Create a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
+
+You can assume the number will be between 1 to 3999.
+def roman_to_int(roman_string) must return an integer
+If the roman_string is not a string or None, return 0
