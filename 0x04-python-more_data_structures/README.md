@@ -56,3 +56,14 @@
 1. Prototype: def number_keys(a_dictionary):
 2. You are not allowed to import any module
    
+### **6. Print sorted dictionary**
+
+> Write a function that prints a dictionary by ordered keys.
+
+1. Prototype: def print_sorted_dictionary(a_dictionary):
+2. You can assume that all keys are strings
+3. Keys should be sorted by alphabetic order
+4. Only sort keys of the first level (don’t sort keys of a dictionary inside the main dictionary)
+5. Dictionary values can have any type
+6. You are not allowed to import any module
+   
