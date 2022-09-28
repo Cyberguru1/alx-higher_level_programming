@@ -20,4 +20,11 @@
 
 ### **1. Search and replace**
 
->
+> Write a function that replaces all occurrences of an element by another in a new list.
+
+1. Prototype: def search_replace(my_list, search, replace):
+2. my_list is the initial list
+3. search is the element to replace in the list
+4. replace is the new element
+5. You are not allowed to import any module
+
