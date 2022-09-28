@@ -28,3 +28,10 @@
 4. replace is the new element
 5. You are not allowed to import any module
 
+### **2. Unique addition**
+
+> Write a function that adds all unique integers in a list (only once for each integer).
+
+1. Prototype: def uniq_add(my_list=[]):
+2. You are not allowed to import any module
+   
