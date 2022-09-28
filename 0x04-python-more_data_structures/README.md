@@ -1,12 +1,11 @@
 # *More Data Structures* :joy:
 
 **In this repository we are going into more data structures and operations on them such as :**
+- 
+- ## Lambda, filter, reduce and map
+- ## Learn to Program 12 Lambda Map 
 
-## Lambda, filter, reduce and map
-
-## Learn to Program 12 Lambda Map 
-
-## Filter Reduce
+- ## Filter Reduce
 
 ### **0. Squared simple**
 
@@ -18,3 +17,4 @@
 - Initial matrix should not be modified
 - You are not allowed to import any module
 - You are allowed to use regular loops, map, etc.
+
