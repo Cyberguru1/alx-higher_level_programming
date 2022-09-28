@@ -67,3 +67,14 @@
 5. Dictionary values can have any type
 6. You are not allowed to import any module
    
+### **7. Update dictionary**
+
+> Write a function that replaces or adds key/value in a dictionary.
+
+1. Prototype: def update_dictionary(a_dictionary, key, value):
+2. key argument will be always a string
+3. value argument will be any type
+4. If a key exists in the dictionary, the value will be replaced
+5. If a key doesn’t exist in the dictionary, it will be created
+6. You are not allowed to import any module
+
