@@ -12,5 +12,5 @@ def safe_print_list_integers(my_list=[], x=0):
         else:
             pass
     print()
-    return
+    return c
 print(safe_print_list_integers([1,2,3,'a',4,'d'],5))
