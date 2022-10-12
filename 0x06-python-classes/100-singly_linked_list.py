@@ -93,10 +93,9 @@ class SinglyLinkedList:
             self.__head = new
             return
         while tmp.next_node is not None:
-            if tmp.next_node.data >= value:
+            if tmp.next_node.data <= value:
                 break
             tmp = tmp.next_node
-        new.next_node = tmp.next_node
         tmp.next_node = new
 
     def __str__(self):
