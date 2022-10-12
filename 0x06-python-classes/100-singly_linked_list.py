@@ -97,6 +97,7 @@ class SinglyLinkedList:
                 break
             tmp = tmp.next_node
         new.next_node = tmp
+        tmp.next_node = new
 
     def __str__(self):
         """String representation of SinglyLinkedList instance
