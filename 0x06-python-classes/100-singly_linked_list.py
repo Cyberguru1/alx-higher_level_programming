@@ -93,7 +93,7 @@ class SinglyLinkedList:
             self.__head = new
             return
         while tmp.next_node is not None:
-            if tmp.next_node.data >= value:
+            if tmp.next_node.data > value:
                 break
             tmp = tmp.next_node
         next = tmp.next_node
@@ -114,3 +114,17 @@ class SinglyLinkedList:
                 string += "\n"
             tmp = tmp.next_node
         return string
+
+sll = SinglyLinkedList()
+sll.sorted_insert(2)
+sll.sorted_insert(5)
+sll.sorted_insert(3)
+sll.sorted_insert(10)
+sll.sorted_insert(1)
+sll.sorted_insert(-4)
+sll.sorted_insert(-3)
+sll.sorted_insert(4)
+sll.sorted_insert(5)
+sll.sorted_insert(12)
+sll.sorted_insert(3)
+print(sll)
