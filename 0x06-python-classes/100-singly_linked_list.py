@@ -87,7 +87,7 @@ class SinglyLinkedList:
         """
         new = Node(value)
         tmp = self.__head
-        if tmp is None or tmp.data >= value:
+        if tmp is None or tmp.data > value:
             if tmp:
                 new.next_node = tmp
             self.__head = new
