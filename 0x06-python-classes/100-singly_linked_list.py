@@ -96,8 +96,10 @@ class SinglyLinkedList:
             if tmp.next_node.data >= value:
                 break
             tmp = tmp.next_node
-        new.next_node = tmp
+        next = tmp.next_node
         tmp.next_node = new
+        new.next_node = next
+       
 
     def __str__(self):
         """String representation of SinglyLinkedList instance
