@@ -20,3 +20,5 @@
 
 [MySQL 8.0 SQL Statement Syntax](https://alx-intranet.hbtn.io/rltoken/HmdmLiYBM0Q34iCYPWd9XQ)
 
+# AUTHOR
+[cyberguru1](https://github.com/cyberguru1)
