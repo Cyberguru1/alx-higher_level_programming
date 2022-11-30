@@ -21,4 +21,9 @@
 [MySQL 8.0 SQL Statement Syntax](https://alx-intranet.hbtn.io/rltoken/HmdmLiYBM0Q34iCYPWd9XQ)
 
 # AUTHOR
-[cyberguru1](https://github.com/cyberguru1)
+<details>
+    <summary>Hamza Saidu</summary>
+    <ul>
+    <li><a href="https://www.github.com/Cyberguru1">Github</a></li>
+    </ul>
+</details>
