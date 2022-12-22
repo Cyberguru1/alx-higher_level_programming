@@ -7,7 +7,7 @@
 
 def inherits_from(obj, a_class):
     '''
-        function: is_kind_of_class(obj, a_class)
+        function: inherits_from(obj, a_class)
 
         Args:
             obj: object attribute to check
