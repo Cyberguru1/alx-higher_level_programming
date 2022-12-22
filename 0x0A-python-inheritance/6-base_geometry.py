@@ -8,4 +8,6 @@ class BaseGeometry():
         args:
     '''
 
-    def area
+    def area(self):
+        try:
+            
