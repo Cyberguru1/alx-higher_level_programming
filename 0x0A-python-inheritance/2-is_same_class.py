@@ -9,4 +9,6 @@ def is_same_class(obj, a_class):
     '''fucntion: is_same_class
         Returns Bool
     '''
-    return True if isinstance(a_class, obj)
+
+    
+    return True if isinstance(a_class, obj) else False
