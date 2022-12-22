@@ -8,9 +8,10 @@
 
 def write_file(filename="", text=""):
     '''
-        fucntion: write_file()
+        fucntion:
+            write_file()
         Args:
-            
+            filename: file to write to
     '''
     with open(filename, 'w') as f:
         f.write(text)
