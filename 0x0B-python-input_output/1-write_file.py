@@ -12,6 +12,7 @@ def write_file(filename="", text=""):
             write_file()
         Args:
             filename: file to write to
+            text: text to write into the file
     '''
     with open(filename, 'w') as f:
         f.write(text)
