@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-''' class of 
+''' class of baseGeometry
 '''
