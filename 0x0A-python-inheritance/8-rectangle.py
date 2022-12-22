@@ -10,4 +10,6 @@ class Rectangle(BaseGeometry):
     '''
 
     def __init__(self, width, height) -> None:
+        
         super().__init__()
+
