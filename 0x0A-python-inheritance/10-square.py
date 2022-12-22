@@ -2,4 +2,4 @@
 '''
     class square that inherits from Rectangle(8-rectangle)
 '''
-Rectangle = 
+Rectangle = __import__("9-rectangle")
