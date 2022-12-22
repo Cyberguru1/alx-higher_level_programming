@@ -13,7 +13,7 @@ class Square(Rectangle):
 
     def __init__(self, size):
         self.__size = size
-        .integer_validator(self, "size", size)
+        super().__init__
 
     def __str__(self):
         """ print"""
