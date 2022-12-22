@@ -9,4 +9,6 @@ def append_write(filename="". text=""):
     '''
         function:
             append_write
+        Args:
+            filename
     '''
