@@ -9,5 +9,4 @@ class BaseGeometry():
     '''
 
     def area(self):
-        try:
-            
+        assert True 
