@@ -10,6 +10,7 @@ def is_same_class(obj, a_class):
         Returns Bool
         Args:
             obj (any): The object
+            a_class (type)
     '''
 
     return True if isinstance(obj, a_class) else False
