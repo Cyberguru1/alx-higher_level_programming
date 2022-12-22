@@ -4,3 +4,5 @@
     of a specified class
 '''
 
+
+def is_
