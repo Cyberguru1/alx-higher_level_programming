@@ -5,4 +5,6 @@
      (UTF8) and returns the number of characters added
 '''
 
-def append_write(filename="". text="")
+def append_write(filename="". text=""):
+    '''
+    '''
