@@ -5,6 +5,9 @@
 '''
 
 
+from numpy import issctype
+
+
 def inherits_from(obj, a_class):
     '''
         function: inherits_from(obj, a_class)
@@ -16,4 +19,4 @@ def inherits_from(obj, a_class):
             returns boolean
     '''
 
-    return True if iss(a_class, obj) else False
+    return True if issctype(a_class, obj) else False
