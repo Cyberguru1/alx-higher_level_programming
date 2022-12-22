@@ -8,4 +8,3 @@ class BaseGeometry():
         args: 
 
     '''
-    
