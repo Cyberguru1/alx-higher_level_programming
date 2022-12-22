@@ -7,5 +7,5 @@
 
 def is_kind_of_class(obj, a_class):
     '''
-        function: 
+        function: is_kind_of
     '''
