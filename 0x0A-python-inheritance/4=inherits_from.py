@@ -5,7 +5,7 @@
 '''
 
 
-def is_kind_of_class(obj, a_class):
+def(obj, a_class):
     '''
         function: is_kind_of_class(obj, a_class)
 
@@ -16,4 +16,4 @@ def is_kind_of_class(obj, a_class):
             returns boolean
     '''
 
-    return True if issb(obj, a_class) else False
+    return True if issubclass(obj, a_class) else False
