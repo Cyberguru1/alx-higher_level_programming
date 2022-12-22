@@ -7,3 +7,5 @@ class BaseGeometry():
     '''class: BaseGeometry()
         args:
     '''
+
+    def area
