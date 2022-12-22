@@ -13,7 +13,7 @@ class Square(Rectangle):
 
     def __init__(self, size):
         self.__size = size
-        super().__init__
+        super().__init__(self.__)
 
     def __str__(self):
         """ print"""
