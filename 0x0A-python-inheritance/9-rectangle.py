@@ -17,4 +17,4 @@ class Rectangle(BaseGeometry):
 
     def __str__(self):
         """ print"""
-        return f"[Rectangle] self.__width"]
+        return f"[Rectangle] {self.__width"]
