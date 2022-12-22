@@ -15,4 +15,4 @@ class BaseGeometry():
         if isinstance(int, value):
             raise Exception(TypeError,"name must be an integer")
         elif value <= 0:
-            raise Exception(ValueError, "")
+            raise Exception(ValueError, "name must be greater")
