@@ -13,4 +13,5 @@ class BaseGeometry():
 
     def integer_validator(self, name, value):
         if isinstance(int, value):
-            raise Exception(ValueError,"")
+            raise Exception(ValueError,"name must be an integer")
+            
