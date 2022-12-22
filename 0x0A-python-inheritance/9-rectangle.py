@@ -17,3 +17,4 @@ class Rectangle(BaseGeometry):
 
     def __str__(self):
         """ print"""
+        return ["[Rectangle"]
