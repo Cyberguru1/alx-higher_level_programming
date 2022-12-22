@@ -14,3 +14,6 @@ class Square(Rectanlge):
     def __init__(self, size):
         self.__size = size
         Rectangle.integer_validator(self, "size", size)
+
+    def area(self):
+        return 
