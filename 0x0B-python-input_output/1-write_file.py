@@ -7,4 +7,4 @@
 
 
 def write_file(filename="", text=""):
-    
+    with
