@@ -11,5 +11,7 @@ def append_write(filename="". text=""):
             append_write
         Args:
             filename: file to write to
-            text
+            text: text file to write too
     '''
+
+    
