@@ -8,5 +8,7 @@ Rectangle = __import__("9-rectangle").Rectangle
 class Square(Rectanlge):
     '''class: Square
         Args:
-            
+            size: input size
     '''
+
+    def __init__
