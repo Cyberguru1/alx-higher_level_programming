@@ -12,6 +12,7 @@ def append_write(filename="". text=""):
         Args:
             filename: file to write to
             text: text file to write too
+        
     '''
 
     with open(filename, 'a+', encoding='utf-8') as f:
