@@ -5,6 +5,5 @@
 
 class BaseGeometry():
     '''class: BaseGeometry()
-        args: 
-
+        args:
     '''
