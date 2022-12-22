@@ -13,7 +13,7 @@ def append_write(filename="". text=""):
             filename: file to write to
             text: text file to write too
         Returns:
-                The
+                The number of charcters appended
     '''
 
     with open(filename, 'a+', encoding='utf-8') as f:
