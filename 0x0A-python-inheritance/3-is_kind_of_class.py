@@ -7,5 +7,8 @@
 
 def is_kind_of_class(obj, a_class):
     '''
-        function: is_kind_of_class(obj, )
+        function: is_kind_of_class(obj, a_class)
+
+        Args:
+            obj
     '''
