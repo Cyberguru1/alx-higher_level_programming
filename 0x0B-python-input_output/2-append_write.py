@@ -14,4 +14,4 @@ def append_write(filename="". text=""):
             text: text file to write too
     '''
 
-    with open(filename,)
+    with open(filname, 'a')
