@@ -12,6 +12,7 @@ def is_same_class(obj, a_class):
             obj (any): The object
             a_class (type): The class to match
         Returns:
+            True if type(obj) is equal to a_Class
             
     '''
 
