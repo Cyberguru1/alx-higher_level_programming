@@ -11,4 +11,5 @@ class Square(Rectanlge):
             size: input size
     '''
 
-    def __init__
+    def __init__(self, size):
+        
