@@ -9,4 +9,5 @@ class Rectangle(BaseGeometry):
     '''class: Rectangle inherited from baseGeometry
     '''
 
-    def 
+    def __init__(self, width, height) -> None:
+        super().__init__()
