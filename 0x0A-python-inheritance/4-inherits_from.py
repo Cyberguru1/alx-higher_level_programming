@@ -5,9 +5,6 @@
 '''
 
 
-from numpy import issctype
-
-
 def inherits_from(obj, a_class):
     '''
         function: inherits_from(obj, a_class)
