@@ -6,4 +6,5 @@
 '''
 
 
-def write_file(filename="")
+def write_file(filename="", text=""):
+    
