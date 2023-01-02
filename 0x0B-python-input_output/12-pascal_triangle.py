@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Implementation of pascal triangle"""
 
+
 def pascal_triangle(n):
     """implements the pascal traingle
     Args:
@@ -11,11 +12,12 @@ def pascal_triangle(n):
         return terms
     for i in range(n):
         term = []
-        for j in range(i+1):
+        for j in range(i + 1):
             value = fact(i) // (fact(j)* fact(i - j))
             term.append(value)
         terms.append(term)
     return terms
+
 
 def fact(n):
     """implements factorial
