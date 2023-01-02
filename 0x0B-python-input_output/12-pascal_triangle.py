@@ -13,7 +13,7 @@ def pascal_triangle(n):
     for i in range(n):
         term = []
         for j in range(i + 1):
-            value = fact(i) // (fact(j)* fact(i - j))
+            value = fact(i) // (fact(j) * fact(i - j))
             term.append(value)
         terms.append(term)
     return terms
