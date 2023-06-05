@@ -10,12 +10,12 @@
 
 $(function() {
     $("#add_item").click(function(){
-        $("my_list").append("<li>Item</li>");
+        $(".my_list").append("<li>Item</li>");
     });
     $("#remove_item").click(function(){
-        $("my_list").empty("<li>Item</li>");
+        $(".my_list").empty("<li>Item</li>");
     });
-    $("#clear_item").click(function(){
-        $("my_list").remove();
+    $("#clear_list").click(function(){
+        $(".my_list").remove();
     })
 })
