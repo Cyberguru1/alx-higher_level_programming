@@ -1,5 +1,6 @@
 #!/usr/bin/node
-// click function with css
+// click function to change html text
+// hamza saidu
 
 
 $(function()

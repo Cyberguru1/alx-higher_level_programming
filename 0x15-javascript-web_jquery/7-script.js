@@ -1,8 +1,14 @@
 #!/usr/bin/node
-// click function with css
+// hamza saidu
+// function to retrieve content using jquery ajax
 
 
 $(function()
 {
-    $("#update_header").click(function(){$("header").text("New Header!!!")});
-})
+    $.get("https://swapi-api.alx-tools.com/api/people/5/?format=json", 
+        function(data, status){
+            var name = data.name;
+            $("#character").text(name);
+        });
+});
+
