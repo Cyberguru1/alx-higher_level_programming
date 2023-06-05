@@ -10,8 +10,9 @@
 
 $(function() {
     $("#btn_translate").click(function(){
-        var lang = $("#language_code").text();
+        var lang = $("#language_code").val();
         var url = `https://hellosalut.stefanbohacek.dev/?lang=${lang}`;
+        alert(url);
         $.get(url, function(data, status){
             $("#hello").text(data.hello);
         });
