@@ -18,7 +18,6 @@ $(function() {
             parHello();
         }
     });
-    
     function parHello() {
         var lang = $("#language_code").val();
         var url = `https://hellosalut.stefanbohacek.dev/?lang=${lang}`;
